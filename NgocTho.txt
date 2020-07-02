@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Tran Ngoc Tho la ten cua toi
 Chac toi la nguoi co don nhat roi
+=======
+>>>>>>> parent of 7847049... Add new
